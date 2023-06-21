@@ -11,7 +11,7 @@
 //win = Plugin.Window.FindEx(2428086, 1051280, "Qt5152QWindowIcon", "NemuPlayer")
 win = Plugin.Window.MousePoint()
 
-//win = Plugin.Window.Find("Qt5152QWindowIcon", "#N1 魔卡幻想 - MuMu模拟器")
+//win = Plugin.Window.Find("Qt5152QWindowIcon", "#N1")
 //这样操作 不知道为什么，一旦切换了界面，就不运行了
 //MessageBox win
 While true
